@@ -37,7 +37,7 @@ namespace Laba1_OOP_Prototype1
             // 
             this.pictureBox1.Location = new System.Drawing.Point(41, 63);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(687, 375);
+            this.pictureBox1.Size = new System.Drawing.Size(899, 375);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -45,7 +45,7 @@ namespace Laba1_OOP_Prototype1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(958, 450);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
             this.Text = "Form1";
